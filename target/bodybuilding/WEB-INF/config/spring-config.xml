@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="
+       http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+	
+<!-- This is the main Spring Config file for the entire application home.  If 
+	you have a project specific spring config files, import it here! -->  
+	
+<import resource="classpath:/applicationContext-web.xml"/>
+
+</beans>

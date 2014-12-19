@@ -1,0 +1,22 @@
+This is a Java webapp that contains mvn pom.xml file. Simple pull the application from git,
+then build/run the application from any popular IDEs.
+
+the home page of the application is: http://localhost:8080/bodybuilding/
+the result page of the application is: http://localhost:8080/bodybuilding/getProduct
+
+The application is built based on Spring MVC and Spring Rest Template and Maven and etc...
+
+Due to the limited time, I am not able to finished the testing of the application. 
+Although I have spent hours on the debugging. I am so sure I have setup the content type
+to "application/json" before calling Spring Rest Template.
+
+Here is the error:
+Request processing failed; nested exception is org.springframework.web.client.RestClientException: 
+Could not extract response: no suitable HttpMessageConverter found for response type 
+[class com.bodybuilding.dto.ProductResponse] and content type [text/plain;charset=utf-8]
+
+Because the error, The view page is not showing correctly.
+
+If I have time tomorrow, I will continue to work on this.
+
+Thanks, Michelle

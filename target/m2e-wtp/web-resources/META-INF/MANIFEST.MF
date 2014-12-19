@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+Built-By: r626061
+Build-Jdk: 1.7.0_25
+Class-Path: commons-collections4-4.0.jar spring-context-3.2.0.RELEASE.
+ jar spring-core-3.2.0.RELEASE.jar spring-aop-3.2.0.RELEASE.jar spring
+ -expression-3.2.0.RELEASE.jar spring-beans-3.2.0.RELEASE.jar spring-c
+ ontext-support-3.2.0.RELEASE.jar spring-webmvc-3.2.0.RELEASE.jar spri
+ ng-web-3.2.0.RELEASE.jar aopalliance-1.0.jar spring-tx-3.2.0.RELEASE.
+ jar spring-security-core-3.2.0.RELEASE.jar spring-security-config-3.2
+ .0.RELEASE.jar spring-security-web-3.2.0.RELEASE.jar spring-security-
+ taglibs-3.2.0.RELEASE.jar spring-security-acl-3.2.0.RELEASE.jar sprin
+ g-jdbc-3.2.6.RELEASE.jar jackson-annotations-2.4.1.jar jackson-databi
+ nd-2.4.1.jar jackson-core-2.4.1.jar json-20140107.jar jstl-1.2.jar ap
+ plication-1.0.1.jar datetime-1.0.1.jar mailer-1.1.jar page-1.0.1.jar 
+ request-1.0.1.jar response-1.0.1.jar session-1.0.1.jar standard-1.1.2
+ .jar string-1.1.0.jar
+Implementation-Title: bodybuilding
+Implementation-Vendor-Id: bodybuilding
+Created-By: Maven Integration for Eclipse
+Implementation-Version: 1.0
+Specification-Title: bodybuilding
+Specification-Version: 1.0
+
